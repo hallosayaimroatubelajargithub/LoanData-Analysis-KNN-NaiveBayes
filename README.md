@@ -1,1 +1,0 @@
-# LoanData-Analysis-KNN-NaiveBayes
